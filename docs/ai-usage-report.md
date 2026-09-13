@@ -16,6 +16,7 @@ ChatGPT was mainly used to:
 - Help review the code and identify possible improvements
 - Suggest responsive design ideas
 - Assist with writing and organizing the documentation
+- Getting guidance on the Git and GitHub workflow for committing and uploading the project
 
 The AI suggestions were used as guidance and were reviewed before being added to the project.
 
@@ -48,6 +49,7 @@ While completing this assignment, I improved my understanding of:
 - Dark and Light theme switching
 - Contact form interaction
 - Organizing a web project into separate files
+- Basic Git and GitHub workflow
 
 I also learned how AI can be used as a development assistant while still requiring the developer to understand, review, and test the final work.
 
