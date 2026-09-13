@@ -39,7 +39,6 @@ A responsive dashboard used to practice Flexbox, CSS variables, the box model, p
 - Git and GitHub
 
 ## Project Structure
-
 ```text
 assignment-1/
 ├── README.md
@@ -56,7 +55,6 @@ assignment-1/
 │   ├── ai-usage-report.md
 │   └── technical-documentation.md
 └── .gitignore
-
 ```
 
 ## How to Run the Project Locally
